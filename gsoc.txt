@@ -1,16 +1,24 @@
-I hope this e-mail finds you well. I am Sargun Singh, and I am writing to express my interest in collaborating with [Organization Name] for the Google Summer of Code programme. I am really excited about the opportunity to make a contribution to the sector of open-source Quantum Chemistry by way of working on the mission: "Computational Framework for Simulating and Visualizing Complex Molecular Structures".
+I hope this e-mail finds you well. I am Sargun Singh, and I am writing to express my interest in collaborating with QC-Devs for the Google Summer of Code programme. I am really excited about the opportunity to make a contribution to the sector of open-source Quantum Chemistry by working on the mission: "Computational Framework for Simulating and Visualizing Complex Molecular Structures".
 
 I understand that I'm reaching out a bit later in the process, but I wanted to take this opportunity to express my enthusiasm for collaborating with the mentors and [the organization]. Despite joining at this stage, I am highly motivated to contribute to the project and really eager to start working.
 
 
-So to ensure you that I am the right person to contribute to this, I am really passionate about Science and am very experienced in the field of Chemistry, Physics, Mathematics, Statistics, Quantum Dynamics, and Programming. I believe that my preceding enjoy aligns well with the dreams of this mission. Two years in the past, I evolved a project targeted on simulating 4f orbitals in 3D the usage of chance density, especially concentrated on the Cerium atom. This project concerned imposing algorithms to calculate orbital possibilities, visualizing the effects in 3D space, and studying the traits of the orbitals in Python using various libraries using Matplotlib. I have additionally shared this project recently on my GitHub repository, along side certain documentation and snapshots showcasing the simulations.
+To ensure you that I am the right person to contribute to this, I am really passionate about Science and am very experienced in the field of Chemistry, Physics, Mathematics, Statistics, Quantum Dynamics, Programming, and Machine Learning. I believe that my preceding enjoy aligns well with the dreams of this mission. Two years in the past, I evolved a project targeted on simulating 4f orbitals in 3D the usage of chance density, especially concentrated on the Cerium atom. This project concerned imposing algorithms to calculate orbital possibilities, visualizing the effects in 3D space, and studying the traits of the orbitals in Python using various libraries using Matplotlib. I have additionally shared this project recently on my GitHub repository, along side certain documentation and snapshots showcasing the simulations.
 
 Through this mission, I gained valuable revel in in manipulating molecular statistics, utilizing numerical strategies for visualisation, and understanding the intricacies of atomic orbitals. I am confident that I can leverage this experience in to contribute efficiently to the improvement of the proposed venture for GSoC.
+
+A detailed description of my project would include visualisation of detailed structure of atoms and molecules. I will add the ability to distinguish between different parts of atoms and molcules and their orbitals. Apart from the features already present in my previous project, the new features will include the addition of: showcasing electron clouds, probability of finding electrons based on bonds,  displaying electron clouds, Developing a framework for the same for visualising the reactions between atoms in real-time and  consideration of other forces between two particles. 
 
 In addition to my technical abilties, I am a dedicated and enthusiastic learner who's keen to collaborate with mentors and fellow contributors to attain mission objectives. I am devoted to producing wonderful code, adhering to excellent practices, and actively collaborating inside the open-supply network.
 
 I am enthusiastic about the possibility to work with [Organization Name] and contribute to advancing the sector of computational chemistry. I am assured that my capabilities and enjoy make me a appropriate candidate for this project, and I am eager to speak about how I can make contributions in addition.
 
 Thank you for considering about my software. I sit up for the opportunity of running together in this thrilling assignment.
+May you have a pleasent day ahead.
 
-Warm regards,
+Warm Regards,
+Sargun Singh,
+sargunsingh20062017@gmail.com
+
+The Github repository link: github.com/gluonparticle/
+
